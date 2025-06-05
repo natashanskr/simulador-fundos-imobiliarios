@@ -15,7 +15,7 @@ Criar uma ferramenta simples e intuitiva no Excel para simular investimentos men
 
 ## 📁 Arquivos
 
-- `Simulador_FII.xlsx`: planilha principal de simulação
+- `desafio de projeto`: planilha principal de simulação
 
 ## 🚀 Como usar
 
